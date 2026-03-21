@@ -136,13 +136,10 @@ class ShoorjitSahoo:
 
 ---
 
-🐍 Contribution Snake
+## 🟡 Pac-Man Contribution Graph
+
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
-</picture>
+  <img src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/pacman-contribution-graph.svg" alt="Pac-Man Contributions"/>
 </div>
 ---
 
