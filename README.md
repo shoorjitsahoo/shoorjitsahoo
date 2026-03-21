@@ -136,10 +136,10 @@ class ShoorjitSahoo:
 
 ---
 
-## 🟡 Pac-Man Contribution Graph
+## 🗻 3D Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/pacman-contribution-graph.svg" alt="Pac-Man Contributions"/>
+  <img src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
 </div>
 ---
 
