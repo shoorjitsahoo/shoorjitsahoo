@@ -7,8 +7,9 @@
 
 <div align="center">
 
+
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=50&lines=Python;SQL+%26+Database+Querying;Power+BI+Dashboard+Builder;Machine+Learning+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-Learn;Data+Visualization+%26+Storytelling;Turning+Data+into+Decisions;Open+to+Work!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=50&lines=SQL+%26+Database+Querying;Power+BI+Dashboard+Builder;Excel+%26+Data+Analysis;Machine+Learning+%26+AI+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-Learn;Matplotlib+%7C+Seaborn+Visualization;Python+EDA+%26+Data+Storytelling;Turning+Data+into+Decisions;Open+to+Work!" alt="Typing SVG" />
 
 <br/><br/>
 
