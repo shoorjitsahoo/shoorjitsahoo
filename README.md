@@ -136,10 +136,13 @@ class ShoorjitSahoo:
 
 ---
 
-## 📊 3D Contribution Graph
-
+🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
+</picture>
 </div>
 ---
 
