@@ -1,1 +1,161 @@
+<!-- SHOORJIT SAHOO — GITHUB PROFILE README -->
 
+<!-- HEADER BANNER — no emoji in URL, simple reliable params -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:3730a3,100:6366f1&height=200&section=header&text=Hi%20there!%20I%27m%20Shoorjit&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20and%20AI%20Enthusiast%20%7C%20India&descAlignY=62&descSize=18&descColor=c7d2fe"/>
+
+<br/>
+
+<div align="center">
+
+<!-- TYPING ANIMATION — no emoji in lines, clean ASCII only -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=50&lines=Python+Developer;SQL+%26+Database+Querying;Power+BI+Dashboard+Builder;Machine+Learning+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-Learn;Data+Visualization+%26+Storytelling;Turning+Data+into+Decisions;Open+to+Work!" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- BADGES — shields.io always works -->
+<img src="https://komarev.com/ghpvc/?username=shoorjitsahoo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+&nbsp;
+<a href="https://github.com/shoorjitsahoo?tab=followers">
+  <img src="https://img.shields.io/github/followers/shoorjitsahoo?style=for-the-badge&color=6366f1&labelColor=1e1b4b&label=FOLLOWERS" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-22c55e?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/shoorjit-sahoo">
+  <img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=818cf8" />
+</a>
+&nbsp;
+<a href="https://github.com/shoorjitsahoo">
+  <img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class ShoorjitSahoo:
+
+    name       = "Shoorjit Sahoo"                  # he/him
+    location   = "India"
+    role       = "Data & AI Enthusiast"
+
+    skills     = {
+        "languages"  : ["Python", "SQL"],
+        "bi_tools"   : ["Power BI", "Excel"],
+        "ml_libs"    : ["Scikit-learn", "Pandas",
+                        "NumPy", "Matplotlib",
+                        "Seaborn", "Plotly"],
+        "tools"      : ["Git", "GitHub", "Jupyter", "VS Code"]
+    }
+
+    currently  = "Building dashboards & exploring ML models"
+    learning   = ["Machine Learning", "Statistics", "AI"]
+    open_to    = ["Internships", "Full-time Roles", "Collaborations"]
+    fun_fact   = "Data is the new oil — I am the refinery"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&theme=dark&perline=6" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
+![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
+![MySQL](https://img.shields.io/badge/MySQL-1e1b4b?style=for-the-badge&logo=mysql&logoColor=818cf8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
+
+<br/>
+
+![Power BI](https://img.shields.io/badge/Power_BI-1e1b4b?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-1e1b4b?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e)
+![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=for-the-badge&logo=pandas&logoColor=818cf8)
+![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=for-the-badge&logo=numpy&logoColor=818cf8)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1e1b4b?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-1e1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
+![Seaborn](https://img.shields.io/badge/Seaborn-1e1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
+![Plotly](https://img.shields.io/badge/Plotly-1e1b4b?style=for-the-badge&logo=plotly&logoColor=818cf8)
+
+<br/>
+
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=f97316)
+![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
+![Jupyter](https://img.shields.io/badge/Jupyter-1e1b4b?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoorjitsahoo&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=shoorjitsahoo&hide_border=true&background=0f0f1a&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=818cf8&sideLabels=a5b4fc&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoorjitsahoo&layout=donut&hide_border=true&bg_color=0f0f1a&title_color=818cf8&text_color=a5b4fc&langs_count=6" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shoorjitsahoo/SuperStore-Sales-Dashboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoorjitsahoo&repo=SuperStore-Sales-Dashboard&hide_border=true&bg_color=0f0f1a&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc" />
+</a>
+<a href="https://github.com/shoorjitsahoo/ai-job-market-powerbi-dashboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=shoorjitsahoo&repo=ai-job-market-powerbi-dashboard&hide_border=true&bg_color=0f0f1a&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc" />
+</a>
+
+</div>
+
+---
+
+## 📅 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shoorjitsahoo&bg_color=0f0f1a&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=6366f115&hide_border=true&title_color=818cf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shoorjitsahoo/shoorjitsahoo/output/github-snake-dark.svg"/>
+</picture>
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:3730a3,100:1e1b4b&height=120&section=footer"/>
