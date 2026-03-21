@@ -1,18 +1,18 @@
 <!-- SHOORJIT SAHOO — GITHUB PROFILE README -->
 
-<!-- HEADER BANNER — no emoji in URL, simple reliable params -->
+<!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:3730a3,100:6366f1&height=200&section=header&text=Hi%20there!%20I%27m%20Shoorjit&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20and%20AI%20Enthusiast%20%7C%20India&descAlignY=62&descSize=18&descColor=c7d2fe"/>
 
 <br/>
 
 <div align="center">
 
-<!-- TYPING ANIMATION — no emoji in lines, clean ASCII only -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=50&lines=Python+Developer;SQL+%26+Database+Querying;Power+BI+Dashboard+Builder;Machine+Learning+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-Learn;Data+Visualization+%26+Storytelling;Turning+Data+into+Decisions;Open+to+Work!" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=818CF8&center=true&vCenter=true&width=600&height=50&lines=Python;SQL+%26+Database+Querying;Power+BI+Dashboard+Builder;Machine+Learning+Enthusiast;Pandas+%7C+NumPy+%7C+Scikit-Learn;Data+Visualization+%26+Storytelling;Turning+Data+into+Decisions;Open+to+Work!" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- BADGES — shields.io always works -->
+<!-- BADGES -->
 <img src="https://komarev.com/ghpvc/?username=shoorjitsahoo&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 &nbsp;
 <a href="https://github.com/shoorjitsahoo?tab=followers">
@@ -101,12 +101,9 @@ class ShoorjitSahoo:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoorjitsahoo&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1&include_all_commits=true&count_private=true" />
+<!-- FIX: removed include_all_commits and count_private — those need a token -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shoorjitsahoo&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1" />
 <img width="49%" src="https://streak-stats.demolab.com?user=shoorjitsahoo&hide_border=true&background=0f0f1a&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=818cf8&sideLabels=a5b4fc&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoorjitsahoo&layout=donut&hide_border=true&bg_color=0f0f1a&title_color=818cf8&text_color=a5b4fc&langs_count=6" />
 
 </div>
 
@@ -154,8 +151,6 @@ class ShoorjitSahoo:
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
 
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:3730a3,100:1e1b4b&height=120&section=footer"/>
