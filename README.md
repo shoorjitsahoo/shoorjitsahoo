@@ -67,19 +67,23 @@ class ShoorjitSahoo:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,vscode,jupyter&theme=dark&perline=5" />
 
 <br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=818cf8)
-![SQL](https://img.shields.io/badge/SQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
 ![MySQL](https://img.shields.io/badge/MySQL-1e1b4b?style=for-the-badge&logo=mysql&logoColor=818cf8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1b4b?style=for-the-badge&logo=postgresql&logoColor=818cf8)
+![BigQuery](https://img.shields.io/badge/BigQuery-1e1b4b?style=for-the-badge&logo=googlebigquery&logoColor=818cf8)
 
 <br/>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-1e1b4b?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-1e1b4b?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e)
+![Tableau](https://img.shields.io/badge/Tableau-1e1b4b?style=for-the-badge&logo=tableau&logoColor=818cf8)
+![Excel](https://img.shields.io/badge/Advanced_Excel-1e1b4b?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e)
+
+<br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-1e1b4b?style=for-the-badge&logo=pandas&logoColor=818cf8)
 ![NumPy](https://img.shields.io/badge/NumPy-1e1b4b?style=for-the-badge&logo=numpy&logoColor=818cf8)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1e1b4b?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
@@ -89,13 +93,10 @@ class ShoorjitSahoo:
 
 <br/>
 
-![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
 ![Jupyter](https://img.shields.io/badge/Jupyter-1e1b4b?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
